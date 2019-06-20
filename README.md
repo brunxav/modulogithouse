@@ -1,0 +1,1 @@
+Criando arquivo README em casa para prática do GIT.
